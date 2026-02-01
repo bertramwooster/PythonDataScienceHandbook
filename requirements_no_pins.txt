@@ -13,3 +13,5 @@ memory_profiler
 numexpr
 pandas-datareader
 netcdf4
+isort
+black
